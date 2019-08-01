@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Rithm React Exercise
+Backend API was provided by school. Built frontend with React
 
 ## Available Scripts
 
